@@ -17,8 +17,6 @@ Interpret model behavior with feature importance
 
 Careful handling of categorical variables
 
-Class imbalance addressed using class weights
-
 No data leakage throughout the pipeline
 
 Focus on business-relevant churn recall
@@ -27,6 +25,16 @@ Focus on business-relevant churn recall
 
 customerID, gender, SeniorCitizen, Partner, Dependents, tenure, PhoneService, MultipleLines, InternetService, OnlineSecurity, OnlineBackup, DeviceProtection, TechSupport, StreamingTV, StreamingMovies, Contract, PaperlessBilling, PaymentMethod, MonthlyCharges, TotalCharges, Churn.
 
+
+📋 Python Libraries used :
+
+Pandas  - used for loading, cleaning, manipulating, and performing exploratory data analysis (EDA) in Python.
+
+Numpy - Used for numerical computations and working with arrays in Python.
+
+Matplotlib - used for creating visualizations and plots in Python.
+
+Scikit-learn - used for building, training, and evaluating machine learning models in Python.
 
 
 
